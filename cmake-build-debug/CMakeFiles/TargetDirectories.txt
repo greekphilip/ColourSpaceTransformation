@@ -1,0 +1,5 @@
+/home/philip/CLionProjects/ColorSpaceTransformation/cmake-build-debug/CMakeFiles/ColourSpaceTransformation.dir
+/home/philip/CLionProjects/ColorSpaceTransformation/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/philip/CLionProjects/ColorSpaceTransformation/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/philip/CLionProjects/ColorSpaceTransformation/cmake-build-debug/CMakeFiles/ColourSpaceTransformation_autogen_timestamp_deps.dir
+/home/philip/CLionProjects/ColorSpaceTransformation/cmake-build-debug/CMakeFiles/ColourSpaceTransformation_autogen.dir
